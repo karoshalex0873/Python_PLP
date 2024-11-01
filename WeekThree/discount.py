@@ -4,7 +4,7 @@ def calculate_discount(price, discount_percent):
     print("You have a dicount of: ",discount)
   else:
     discount=0
-  
+    print("The commodity is not eligble for the discount")
   TotalCost=price-discount
   print("The TotalCost of the commodity is ",TotalCost)
 
