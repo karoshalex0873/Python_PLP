@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: 42 is the answer to life.
+Line 3: Python is fun!
+Line 4: Adding more content.
+Line 5: Another line with number 2023.
+Line 6: File handling in Python.
